@@ -7,5 +7,4 @@ This container will give you the following features:
 - OpenMP and MPI (for parallel programming)
 - valgrind (memory profiling)
 - clang-format (linting)
-- FFTW3 (for Fourier Transforms and related techniques)
 - gnuplot (plotting software)
